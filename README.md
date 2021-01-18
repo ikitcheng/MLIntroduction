@@ -1,10 +1,10 @@
 # Introduction to Machine Learning
 A crash course in Machine Learning (ML) to introduce different learning algorithms with a focus on the practical considerations of constructing a ML solution.
 
-The course notes are in `MLCrashCourseNotes.pdf`. To apply the concepts from the course notes, go through an example ML project on housing prices in California, which you can find in `HousingPriceProject.ipynb`. Solutions to the exercises at the end of the project is in `Solutions.ipynb`. 
+The course notes are in `MLCrashCourseNotes.pdf`. To apply the concepts from the course notes, go through an example ML project on housing prices in California, which you can find in `HousingPriceProject.ipynb`, with exercises and their solutions at the end.
 
 ## Installation
-You can either use Google Colab to run Juypter Notebooks online using Google's GPUs with no configuration required or run Juypter Notebooks locally with Anaconda.
+You can either use Google Colab to run Juypter Notebooks online using Google's GPUs with no configuration required or run Juypter Notebooks locally with Anaconda. (I would recommend Google Colab as the exercises at the end might take a lot of computing power to run.)
 
 ### Google Colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ava-lee/MLIntroduction)
